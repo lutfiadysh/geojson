@@ -10,7 +10,7 @@ environment:
 dependencies:
   geodesy: 
     git:
-      url: git://github.com/lutfiadysh/geodesy.git
+      url: https://github.com/lutfiadysh/geodesy
   geopoint: ^1.0.0
   iso: ^1.0.0
   pedantic: ^1.11.1
